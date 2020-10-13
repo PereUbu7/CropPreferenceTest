@@ -1,0 +1,129 @@
+{
+  "Crops":
+          [
+            {
+              "Id": 1,
+              "Name": "Blomkål",
+              "Amount": 3
+            },
+            {
+              "Id": 2,
+              "Name": "Broccoli",
+              "Amount": 5
+            },
+            {
+              "Id": 3,
+              "Name": "Grönkål",
+              "Amount": 1
+            },
+            {
+              "Id": 4,
+              "Name": "Morot",
+              "Amount": 3
+            },
+            {
+              "Id": 5,
+              "Name": "Fänkål",
+              "Amount": 2
+            },
+            {
+              "Id": 6,
+              "Name": "Sockermajs",
+              "Amount": 4
+            }
+          ],
+  "NumberOfCrops": 3,
+  "Members":
+          [
+            {
+              "Name": "Kalle",
+              "Preferences":
+                      [
+                        {
+                          "Crop": 1,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 2,
+                          "Score": 4
+                        },
+                        {
+                          "Crop": 3,
+                          "Score": 0
+                        },
+                        {
+                          "Crop": 4,
+                          "Score": 3
+                        },
+                        {
+                          "Crop": 5,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 6,
+                          "Score": 4
+                        }
+                      ]
+            },
+            {
+              "Name": "Annicka",
+              "Preferences":
+                      [
+                        {
+                          "Crop": 1,
+                          "Score": 3
+                        },
+                        {
+                          "Crop": 2,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 3,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 4,
+                          "Score": 1
+                        },
+                        {
+                          "Crop": 5,
+                          "Score": 2
+                        },
+                        {
+                          "Crop": 6,
+                          "Score": 0
+                        }
+                      ]
+            },
+            {
+              "Name": "Jönsson",
+              "Preferences":
+                      [
+                        {
+                          "Crop": 1,
+                          "Score": 0
+                        },
+                        {
+                          "Crop": 2,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 3,
+                          "Score": 5
+                        },
+                        {
+                          "Crop": 4,
+                          "Score": 3
+                        },
+                        {
+                          "Crop": 5,
+                          "Score": 3
+                        },
+                        {
+                          "Crop": 6,
+                          "Score": 3
+                        }
+                      ]
+            }
+          ]
+}
