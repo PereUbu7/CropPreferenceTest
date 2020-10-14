@@ -4,32 +4,38 @@
             {
               "Id": 1,
               "Name": "Blomkål",
-              "Amount": 3
+              "Amount": 3,
+              "Featured": false
             },
             {
               "Id": 2,
               "Name": "Broccoli",
-              "Amount": 5
+              "Amount": 5,
+              "Featured": true
             },
             {
               "Id": 3,
               "Name": "Grönkål",
-              "Amount": 1
+              "Amount": 1,
+              "Featured": false
             },
             {
               "Id": 4,
               "Name": "Morot",
-              "Amount": 3
+              "Amount": 3,
+              "Featured": false
             },
             {
               "Id": 5,
               "Name": "Fänkål",
-              "Amount": 2
+              "Amount": 2,
+              "Featured": false
             },
             {
               "Id": 6,
               "Name": "Sockermajs",
-              "Amount": 4
+              "Amount": 4,
+              "Featured": false
             }
           ],
   "NumberOfCrops": 3,
